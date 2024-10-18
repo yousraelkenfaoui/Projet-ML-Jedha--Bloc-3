@@ -1,1 +1,4 @@
-# 3 Differents Machine Learninf Projects
+# 3 Differents Machine Learning Projects
+
+### Supervised Machine Learning : Coversion rate
+### Unsupervised Machine learning : 
